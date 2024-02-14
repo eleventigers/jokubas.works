@@ -25,14 +25,3 @@ The rack is split into two sections for distinct tasks: an angled tier on the ri
 ![](/images/studio_rack/studio_rack_within_room.jpg)
 
 Building this rack was about blending planning with execution. The final piece meets the daily demands of studio use and reflects a personal approach to music production. It's a practical example in my portfolio, showcasing woodworking that is both effective and tailored to a musician's workflow.
-
-
-
-
-This studio rack, crafted for my own space, serves the practical needs of a hobby musician and adds a touch of character. Constructed from Baltic birch with a bright yellow laminate, it provides a modern look and reliable durability.
-
-The creation process began with sketches that laid out the functional design and precise measurements. These initial ideas were translated into a concrete template, guiding the careful cutting of the Baltic birch to fit the design specifications.
-
-The rack is split into two sections for distinct tasks: an angled tier on the right for mixing and a drawer on the left with a turntable for sampling. The assembly was straightforward, with each piece fitting together according to the template, combining functionality with personal style.
-
-Building this rack was about blending planning with execution. The final piece meets the daily demands of studio use and reflects a personal approach to music production. It's a practical example in my portfolio, showcasing woodworking that is both effective and tailored to a musician's workflow.
