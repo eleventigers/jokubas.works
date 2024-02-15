@@ -11,7 +11,6 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-  
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -25,7 +24,7 @@ contact_settings:
   form_action: 'https://formspree.io/f/mnqeddky'
   confirmation_url:
   email_subject: 'jokubas.works contact form submission'
-  send_button_text: 'Send Message'
+  send_button_text: 'Send'
 
 social_settings:
   facebook_url: ''
