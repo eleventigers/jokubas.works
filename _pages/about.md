@@ -1,5 +1,5 @@
 ---
-title: About
+title: Meet Jokūbas Dargis
 ---
 
 I come from a world of <a href="https://jokubas.works/docs/jokubas_dargis_resume_2024.pdf" target="_blank">software engineering</a> and [music](https://soundcloud.com/eleventigers), but it's in woodworking where I've truly found my stride. My work is all about keeping things simple and functional. I love clean lines and designs that don't shout for attention but still catch your eye. It's this mix of my tech background and creative side that lets me craft pieces that are not just useful but also built to last.
