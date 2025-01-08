@@ -39,13 +39,16 @@ Throughout the iterative process, we explored various combinations of legs, rail
 	<img class="not-full-spread" style="float: center" src="/images/south_pasadena_entryway_storage_bench/entryway_direction_b_1.jpeg">
 </div>
 
-The final design features two rectangular metal legs connected by horizontal cross members, offering strong support for both the bench and the shoe cabinet. After incorporating the client's feedback, the dimensions were refined to achieve a more balanced and cohesive look.
-
-<div class="gallery" data-columns="2">
-	<img src="/images/south_pasadena_entryway_storage_bench/entryway_direction_b_1.2.jpeg">
-	<img src="/images/south_pasadena_entryway_storage_bench/entryway_direction_b_1.3.jpeg">
-	<img src="/images/south_pasadena_entryway_storage_bench/entryway_direction_b_1.3_render.jpg">
-	<img src="/images/south_pasadena_entryway_storage_bench/entryway_storage_bench_closed_left_angle_portrait.jpg">
+<div class="image-wrap">
+	<img class="not-full-spread" style="float: center" src="/images/south_pasadena_entryway_storage_bench/entryway_direction_b_1.2.jpeg">
 </div>
 
-Once the design was finalized, the production of the piece presented some challenging hardware-related moments due to the narrow profile and tight clearances. Additionally, it was decided that the top cabinet would feature a single door to maximize the inner space, which would otherwise be compromised by large tilt-up hinges. Ultimately, the process highlighted the importance of carefully considering every detail to create a design that not only looks beautiful but also offers exceptional functionality. The result is a piece that seamlessly blends form and practicality, fulfilling the client’s needs while elevating the space.
+<div class="image-wrap">
+	<img class="not-full-spread" style="float: center" src="/images/south_pasadena_entryway_storage_bench/entryway_direction_b_1.3.jpeg">
+</div>
+
+The final design features two rectangular metal legs connected by horizontal cross members, offering strong support for both the bench and the shoe cabinet. After incorporating the client's feedback, the dimensions were refined to achieve a more balanced and cohesive look. Ultimately, the process highlighted the importance of carefully considering every detail to create a design that not only looks beautiful but also offers exceptional functionality. The result is a piece that seamlessly blends form and practicality, fulfilling the client’s needs while elevating the space.
+
+<div class="image-wrap">
+	<img class="not-full-spread" style="float: center" src="/images/south_pasadena_entryway_storage_bench/entryway_direction_b_1.3_render.jpg">
+</div>
